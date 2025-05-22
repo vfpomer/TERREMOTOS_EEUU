@@ -1,3 +1,4 @@
+![Earthquakes App img](img/image.jpg)
 # 🌍 US Earthquakes Analysis Project
 
 ## Overview
